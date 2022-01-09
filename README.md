@@ -1,0 +1,3 @@
+- Hi, I’m harsh
+- I’m currently learning python/c/web development 
+- How to reach me: https://www.instagram.com/harshisoffline/
